@@ -1,0 +1,11 @@
+{
+  "domain": "ferbos_file_editor",
+  "name": "Ferbos File Editor",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ikhsanfauzan2812/ferbos-file-editor",
+  "config_flow": true,
+  "requirements": ["PyYAML>=6.0"],
+  "dependencies": ["websocket_api"],
+  "codeowners": ["@ikhsanfauzan2812"],
+  "iot_class": "local_polling"
+}

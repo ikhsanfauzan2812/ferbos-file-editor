@@ -1,0 +1,7 @@
+{
+  "name": "Ferbos File Editor",
+  "content_in_root": false,
+  "filename": "ferbos_file_editor.zip",
+  "render_readme": true,
+  "domains": ["ferbos_file_editor"]
+}
